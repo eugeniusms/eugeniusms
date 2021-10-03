@@ -14,6 +14,8 @@
 
 [<img align="left" alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" />][email]
 
+</br?>
+
 ### Connect with me:
 
 [<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
