@@ -17,7 +17,7 @@
 
 ### Contact:
 
-[<img align="left" alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" /><p style="color:gold;">Email</p>][email] 
+[<img align="left" alt="eugeniusms | Email" width="100px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" /><p style="color:gold;">Email</p>][email] 
 
 ### Connect with me:
 
