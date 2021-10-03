@@ -12,14 +12,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="eugeniusms | Blog" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.m.wikipedia.org%2Fwiki%2FBerkas%3AWordpress_Blue_logo.png&psig=AOvVaw3nRm-yaQTB3RgSrti_DVsA&ust=1633359322420000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjq0eO_rvMCFQAAAAAdAAAAABAO" />][blog]
+[<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
+[<img align="left" alt="eugeniusms | Blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/600px-Wordpress_Blue_logo.png" />][blog]
 [<img align="left" alt="eugeniusms | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="eugeniusms | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />][instagram]
-[<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
 
 
+[linkedin]: https://www.linkedin.com/in/eugenius-mario-s
 [blog]: https://mariojournalnnote.wordpress.com
 [twitter]: https://twitter.com/eugenius_ms
 [instagram]: https://instagram.com/eugeniusmario
-[linkedin]: https://www.linkedin.com/in/eugenius-mario-s
+
 
