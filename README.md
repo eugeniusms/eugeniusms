@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Connect with me:
+
+[<img align="left" alt="eugeniusms | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="eugeniusms | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/eugenius_ms
+[instagram]: https://instagram.com/eugeniusmario
+[linkedin]: https://www.linkedin.com/in/eugenius-mario-s
