@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="eugeniusms | Twitter" width="22px" src="https://drive.google.com/file/d/16nmnwDXiLgOovdIH2VbCrLazvWk2U1kG/view" />][twitter]
-[<img align="left" alt="eugeniusms | Instagram" width="22px" src="https://drive.google.com/file/d/1mJmrS3sVZuNEIVSsOBzAQ3l-ey4pwqlO/view" />][instagram]
-[<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://drive.google.com/file/d/1FersnSnvp_KkIgoaHx2w-K_eMqHz1kK4/view" />][linkedin]
+[<img align="left" alt="eugeniusms | Twitter" width="22px" src="https://drive.google.com/file/d/16nmnwDXiLgOovdIH2VbCrLazvWk2U1kG" />][twitter]
+[<img align="left" alt="eugeniusms | Instagram" width="22px" src="https://drive.google.com/file/d/1mJmrS3sVZuNEIVSsOBzAQ3l-ey4pwqlO" />][instagram]
+[<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://drive.google.com/file/d/1FersnSnvp_KkIgoaHx2w-K_eMqHz1kK4" />][linkedin]
 
 [twitter]: https://twitter.com/eugenius_ms
 [instagram]: https://instagram.com/eugeniusmario
