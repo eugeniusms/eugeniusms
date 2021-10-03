@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="eugeniusms | Twitter" width="22px" src="https://drive.google.com/file/d/16nmnwDXiLgOovdIH2VbCrLazvWk2U1kG" />][twitter]
+[<img align="left" alt="eugeniusms | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="eugeniusms | Instagram" width="22px" src="https://drive.google.com/file/d/1mJmrS3sVZuNEIVSsOBzAQ3l-ey4pwqlO" />][instagram]
 [<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://drive.google.com/file/d/1FersnSnvp_KkIgoaHx2w-K_eMqHz1kK4" />][linkedin]
 
