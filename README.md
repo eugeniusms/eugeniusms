@@ -19,7 +19,7 @@
 
 [<img align="left" alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" /><p style="color:gold;">Email</p>][email] 
 
-### Connect with me:
+📫 Reach me out!
 
 [<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
 [<img align="left" alt="eugeniusms | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
