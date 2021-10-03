@@ -10,6 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Contact:
+
+[<img align="left" alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" />][email]
+
 ### Connect with me:
 
 [<img align="left" alt="eugeniusms | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
@@ -18,6 +22,7 @@
 [<img align="left" alt="eugeniusms | Blog" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" />][blog]
 
 
+[email]: mailto:eugeniusms@gmail.com
 [linkedin]: https://www.linkedin.com/in/eugenius-mario-s
 [twitter]: https://twitter.com/eugenius_ms
 [instagram]: https://instagram.com/eugeniusmario
