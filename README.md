@@ -1,6 +1,6 @@
 ### Hi there, I'm Mario
 
-I'm currently studying as a computer science student at the University of Indonesia!
+## I'm currently studying as a computer science student at the University of Indonesia!
 
 
 **eugeniusms/eugeniusms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
