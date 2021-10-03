@@ -4,7 +4,6 @@
 - 🔭 I’m currently working at Zenius
 - 👯 I’m looking to collaborate with everyone
 - 📫 How to reach me: eugeniusms@gmail.com
-- 😄 Pronouns: Ri
 
 ### I Learn and Use:
 
