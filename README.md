@@ -8,7 +8,7 @@
 ### I Learn and Use:
 
 <p align="center">
-    <img alt="VSCode" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
+<img alt="VSCode" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />   
 
 
 <img alt="Anaconda" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
