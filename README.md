@@ -1,8 +1,11 @@
 <p align="center">
    <b>Hi there, I'm Mario <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </p>
+<p align="center">
+   currently studying as a computer science student at University of Indonesia!
+</p>
 
-## I'm currently studying as a computer science student at University of Indonesia!
+
 - 🔭 Competitive Programmer at Ristek Fasilkom UI
 - 👯 I’m looking to collaborate with everyone
 - 📫 How to reach me: eugeniusms@gmail.com
