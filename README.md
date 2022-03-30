@@ -43,7 +43,6 @@ I learn and use
 <img alt="Tailwind" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />          
 <img alt="Django" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </p>
-</br>
 
 ---
 
