@@ -10,6 +10,7 @@
 <div align="center">
    
 <img src="https://avatars.githubusercontent.com/u/3433898?s=280&v=4" width="36px">
+<img src="https://gitlab.com/uploads/-/system/group/avatar/2467123/makara-ui-fasilkom.png" width="36px">
    
 </div>
 
