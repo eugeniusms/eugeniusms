@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eugeniusms](https://github.com/eugeniusms)
-
-- 📝 I regularly write articles on [https://mariojournalnnote.wordpress.com/](https://mariojournalnnote.wordpress.com/)
-
 - 📫 How to reach me **eugeniusms@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eugenius-mario-s/](https://www.linkedin.com/in/eugenius-mario-s/)
