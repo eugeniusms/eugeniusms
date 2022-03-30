@@ -15,9 +15,9 @@
 - 📫 How to reach me: eugeniusms@gmail.com
 </p>
 
-<p align="center">
+### <p align="center">
    
-### I learn and use
+I learn and use
    
 ---
    
