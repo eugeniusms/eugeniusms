@@ -7,7 +7,7 @@
 
 ### I Learn and Use:
 
-<div align="center">
+<p align="center">
 <img align="left" alt="VSCode" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
 
 <img align="left" alt="Anaconda" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
@@ -26,7 +26,7 @@
 <img align="left" alt="Bulma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 <img align="left" alt="Tailwind" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />          
 <img align="left" alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-</div>
+</p>
 </br>
 
 ### Contact:
