@@ -6,9 +6,9 @@
 </p>
 
 <div align="center">
-* 🔭 Competitive Programmer at Ristek Fasilkom UI
-* 👯 I’m looking to collaborate with everyone
-* 📫 How to reach me: eugeniusms@gmail.com
+- Competitive Programmer at Ristek Fasilkom UI
+- I’m looking to collaborate with everyone
+- How to reach me: eugeniusms@gmail.com
 </div>
 
 <br>
