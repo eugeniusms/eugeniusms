@@ -1,70 +1,37 @@
-<div align="center">
-   
-**Hi there, I'm Mario** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">Hi 👋, I'm Mario</h1>
+<h3 align="center">A computer science student at University of Indonesia!</h3>
 
-**currently studying as a computer science student at University of Indonesia!**
-   
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugeniusms&label=Profile%20views&color=0e75b6&style=flat" alt="eugeniusms" /> </p>
 
-<div align="center">
+- 🔭 I’m currently working on [RISTEK](https://www.ristek.cs.ui.ac.id/)
 
-I’m looking to collaborate with everyone |
-How to reach me: eugeniusms@gmail.com
-   
-</div>
+- 🌱 I’m currently learning **Algorithms and Data Structures**
 
-<br>
+- 👨‍💻 All of my projects are available at [https://github.com/eugeniusms](https://github.com/eugeniusms)
 
-<div align="center">
+- 📝 I regularly write articles on [https://mariojournalnnote.wordpress.com/](https://mariojournalnnote.wordpress.com/)
 
-**I learn and use**
-   
----
-   
-</div>
+- 📫 How to reach me **eugeniusms@gmail.com**
 
-<p align="center">
-<img alt="VSCode" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+- 📄 Know about my experiences [https://www.linkedin.com/in/eugenius-mario-s/](https://www.linkedin.com/in/eugenius-mario-s/)
 
-<img alt="Anaconda" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Pandas" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img alt="Jupyter" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-
-<img alt="C" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />      
-<img alt="CPP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />         
-<img alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
-<img alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
-<img alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
-<img alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="Bootstrap" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />       
-<img alt="Bulma" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-<img alt="Tailwind" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />       
-<img alt="Django" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/eugenius_ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eugenius_ms" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eugenius-mario-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenius-mario-s" height="30" width="40" /></a>
+<a href="https://kaggle.com/eugeniusmarios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eugeniusmarios" height="30" width="40" /></a>
+<a href="https://instagram.com/eugeniusmario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eugeniusmario" height="30" width="40" /></a>
+<a href="https://medium.com/@eugeniusms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eugeniusms" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/eugeniusms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eugeniusms" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/eugeniusmarios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eugeniusmarios" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/eugeniusms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eugeniusms" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<div align="center">
-   
-**Reach me out!**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugeniusms&show_icons=true&locale=en&layout=compact" alt="eugeniusms" /></p>
 
-[<img alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" />][email]&nbsp;
-[<img alt="eugeniusms | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]&nbsp;
-[<img alt="eugeniusms | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]&nbsp;
-[<img alt="eugeniusms | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />][instagram]&nbsp;
-[<img alt="eugeniusms | Blog" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-256.png" />][blog]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniusms&show_icons=true&locale=en" alt="eugeniusms" /></p>
 
-</div>
-   
-[python]: https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
-[cpp]:
-https://camo.githubusercontent.com/22adfb1d85bcb2de22efe8036b9ba680ccf43a8303ce921c934b994607400754/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465
-
-[email]: mailto:eugeniusms@gmail.com
-[linkedin]: https://www.linkedin.com/in/eugenius-mario-s
-[twitter]: https://twitter.com/eugenius_ms
-[instagram]: https://instagram.com/eugeniusmario
-[blog]: https://mariojournalnnote.wordpress.com
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugeniusms&" alt="eugeniusms" /></p>
