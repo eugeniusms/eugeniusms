@@ -58,6 +58,6 @@ https://camo.githubusercontent.com/22adfb1d85bcb2de22efe8036b9ba680ccf43a8303ce9
 
 <style>
   #sayhello {
-    font-size: 36px;
+    font-size: 72px;
   }
 </style>
