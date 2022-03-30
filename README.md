@@ -1,5 +1,5 @@
-<p align="center">
-   <p id="sayhello"> <b>Hi there, I'm Mario <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </p>
+###<p align="center">
+   <b>Hi there, I'm Mario <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 </p>
 
 ## I'm currently studying as a computer science student at University of Indonesia!
@@ -55,9 +55,3 @@ https://camo.githubusercontent.com/22adfb1d85bcb2de22efe8036b9ba680ccf43a8303ce9
 [twitter]: https://twitter.com/eugenius_ms
 [instagram]: https://instagram.com/eugeniusmario
 [blog]: https://mariojournalnnote.wordpress.com
-
-<style>
-  #sayhello {
-    font-size: 72px;
-  }
-</style>
