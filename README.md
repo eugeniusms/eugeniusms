@@ -8,10 +8,9 @@
 ### I Learn and Use:
 
 <p align="center">
-    <img align="left" alt="VSCode" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
+    <img alt="VSCode" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
 </p>
 
-</br>
 
 <img align="left" alt="Anaconda" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
