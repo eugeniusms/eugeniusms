@@ -16,7 +16,10 @@
 </p>
 
 <p align="center">
-<b>I learn and use</b>
+I learn and use
+   
+---
+
 </p>
 
 <p align="center">
