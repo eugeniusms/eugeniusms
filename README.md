@@ -54,7 +54,7 @@ How to reach me: eugeniusms@gmail.com
    
 **Reach me out!**
 
-[<img alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" />][email] 
+[<img alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" />][email]&nbsp;
 [<img alt="eugeniusms | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />][linkedin]
 [<img alt="eugeniusms | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img alt="eugeniusms | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />][instagram]
