@@ -17,7 +17,7 @@
 
 <div align="center">
    
-I learn and use
+**I learn and use**
    
 ---
    
