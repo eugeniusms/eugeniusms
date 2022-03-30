@@ -31,8 +31,8 @@
  
  <div align="center">
   
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eugeniusms&show_icons=true&locale=en&layout=compact" alt="eugeniusms" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eugeniusms&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="eugeniusms" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniusms&show_icons=true&locale=en" alt="eugeniusms" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniusms&theme=github_dark&show_icons=true&locale=en" alt="eugeniusms" /></p>
   
 </div>
