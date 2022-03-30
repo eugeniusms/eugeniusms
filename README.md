@@ -11,7 +11,6 @@
    
 Competitive Programmer at Ristek Fasilkom UI |
 Information Technology Department Staff at BEM Fasilkom UI |  
-<br>
 I’m looking to collaborate with everyone |
 How to reach me: eugeniusms@gmail.com
    
