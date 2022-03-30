@@ -7,7 +7,11 @@
 
 <p align="center">
 - 🔭 Competitive Programmer at Ristek Fasilkom UI
+</p>
+<p align="center">
 - 👯 I’m looking to collaborate with everyone
+</p>
+<p align="center">
 - 📫 How to reach me: eugeniusms@gmail.com
 </p>
 
