@@ -6,7 +6,7 @@
 - 📫 How to reach me: eugeniusms@gmail.com
 
 <p align="center">
-### I Learn and Use:
+<b>I Learn and Use</b>
 </p>
 
 <p align="center">
