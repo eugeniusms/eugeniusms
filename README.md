@@ -4,8 +4,6 @@
 
 **currently studying as a computer science student at University of Indonesia!**
    
-<br>
-   
 </div>
 
 <div align="center">
