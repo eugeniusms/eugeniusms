@@ -15,13 +15,13 @@
 - 📫 How to reach me: eugeniusms@gmail.com
 </p>
 
-### <p align="center">
+<div align="center">
    
 I learn and use
    
 ---
    
-</p>
+</div>
 
 <p align="center">
 <img alt="VSCode" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
