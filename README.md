@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugeniusms&show_icons=true&locale=en&layout=compact" alt="eugeniusms" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugeniusms&show_icons=true&locale=en" alt="eugeniusms" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eugeniusms&label=Profile%20views&color=0e75b6&style=flat" alt="eugeniusms" /> </p>
