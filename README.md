@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate with everyone
 - 📫 How to reach me: eugeniusms@gmail.com
 
+<p align="center">
 ### I Learn and Use:
+</p>
 
 <p align="center">
 <img alt="VSCode" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
