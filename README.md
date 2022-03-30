@@ -9,6 +9,12 @@
 
 <div align="center">
    
+<img src="https://avatars.githubusercontent.com/u/3433898?s=280&v=4" width="36px">
+   
+</div>
+
+<div align="center">
+   
 Competitive Programmer at Ristek Fasilkom UI |
 Information Technology Department Staff at BEM Fasilkom UI |  
 I’m looking to collaborate with everyone |
