@@ -10,9 +10,9 @@
 [<img align="center" alt="Python" width="100px" src="https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" />][python]
 [<img align="center" alt="CPP" width="73px" src="https://camo.githubusercontent.com/22adfb1d85bcb2de22efe8036b9ba680ccf43a8303ce921c934b994607400754/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" />][cpp]
 </br>
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/> 
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;"/>       
-<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>          
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />       
+<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 
