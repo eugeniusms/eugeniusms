@@ -5,7 +5,7 @@
   
 🔭 I’m currently working on [RISTEK](https://www.ristek.cs.ui.ac.id/) |
 🌱 I’m currently learning **Algorithms and Data Structures** |
-📫 How to reach me **eugeniusms@gmail.com** |
+📫 How to reach me -> **eugeniusms@gmail.com** |
 📄 Know about my experiences [https://www.linkedin.com/in/eugenius-mario-s/](https://www.linkedin.com/in/eugenius-mario-s/)
   
 </div>
