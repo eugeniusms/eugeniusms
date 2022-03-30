@@ -13,8 +13,9 @@
 
 <div align="center">
    
-<img src="https://avatars.githubusercontent.com/u/3433898?s=280&v=4" width="26px"> Competitive Programmer at Ristek Fasilkom UI |
-<img src="https://gitlab.com/uploads/-/system/group/avatar/2467123/makara-ui-fasilkom.png" width="26px"> Information Technology Department Staff at BEM Fasilkom UI |  
+<img src="https://avatars.githubusercontent.com/u/3433898?s=280&v=4" width="26px"> Competitive Programmer at Ristek Fasilkom UI
+<br>
+<img src="https://gitlab.com/uploads/-/system/group/avatar/2467123/makara-ui-fasilkom.png" width="26px"> Information Technology Department Staff at BEM Fasilkom UI
 I’m looking to collaborate with everyone |
 How to reach me: eugeniusms@gmail.com
    
