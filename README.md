@@ -10,7 +10,7 @@
    
 <img src="https://avatars.githubusercontent.com/u/3433898?s=280&v=4" width="42px"> 
 &nbsp;
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbem.cs.ui.ac.id%2Flogo%2F&psig=AOvVaw0Vvgjwh1UinjHXV2Uq502s&ust=1648751374590000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjJ2NK77vYCFQAAAAAdAAAAABAD" width="42px">
+<img src="https://acakadul.files.wordpress.com/2013/08/makara-ui-fasilkom.png" width="42px">
 
 </div>
 
