@@ -15,10 +15,11 @@
 - 📫 How to reach me: eugeniusms@gmail.com
 </p>
 
----
-
 <p align="center">
-I learn and use
+**I learn and use**
+   
+---
+   
 </p>
 
 <p align="center">
