@@ -5,20 +5,19 @@
    currently studying as a computer science student at University of Indonesia!
 </p>
 
-<p align="center">
+<div align="center">
 - 🔭 Competitive Programmer at Ristek Fasilkom UI
-</p>
-<p align="center">
+</div>
+<div align="center">
 - 👯 I’m looking to collaborate with everyone
-</p>
-<p align="center">
+</div>
+<div align="center">
 - 📫 How to reach me: eugeniusms@gmail.com
-</p>
+</div>
 
 <div align="center">
    
 **I learn and use**
-===================
    
 ---
    
