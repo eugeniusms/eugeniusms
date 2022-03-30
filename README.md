@@ -32,6 +32,10 @@
 
 ### Contact:
 
+<p align="center">
+<img align="left" alt="VSCode" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
+</p>
+
 [<img align="left" alt="eugeniusms | Email" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png" /><p style="color:gold;">Email</p>][email] 
 
 **📫 Reach me out!**
