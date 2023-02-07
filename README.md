@@ -29,7 +29,7 @@
 
  </div>
  <div>
- [![My Stacks](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+ ![My Stacks](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
  </div>
  
  <div align="center">
