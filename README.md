@@ -1,6 +1,6 @@
 <p><b>Hi, I'm Mario 👋</b></p>
 
-### Language and Framework that I Use
+### Language and Framework that I Use 🛠️
 <ul>
   <li>Languages: Go, TypeScript, JavaScript, Python, Java, Dart, Rust, PHP, C, C++, Assembly
   <li>Frontend Development: Flutter, React, Next, Redux, Axios, Cypress</li>
@@ -11,7 +11,7 @@
   <li>Google Product: Maps API, Firebase, Google Auth, Compute Engine, App Engine, Cloud Storage</li>
 </ul>
 
-### My Experiences and Projects
+### My Experiences and Projects ⭐️
 <ul>
   <li>Education: Zenius, Rumah Belajar, Kejar, Bizboozt</li>
   <li>Transportation and Logistic: Waresix, Bikun Access</li>
@@ -23,12 +23,12 @@
   <li>Other: Atmos, Depok Kita</li>
 </ul>
 
-### Teaching Assistant at University of Indonesia
+### Teaching Assistant at University of Indonesia 💛
 <ul>
   <li>Teaching Assistant for Programming Foundation 1 (2022/2023-1)</li>
   <li>Teaching Assistant for Introduction to Computer Organization (2022/2023-2)</li>
   <li>Coordinator Teaching Assistant for Data Structures and Algorithms (2023/2024-1)</li>
-  <li>Coordinator Teaching Assistant for Data Structures and Algorithms (2023/2024-1)</li>
+  <li>Coordinator Teaching Assistant for Data Structures and Algorithms (2023/2024-2)</li>
   <li>Teaching Assistant for Advanced Programming (2023/2024-2)</li>
 </ul>
 
