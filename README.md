@@ -12,5 +12,4 @@
 </ul>
 
 ### My GitHub Stats
-![eugeniusms's Stats](https://github-readme-stats.vercel.app/api?username=eugeniusms&theme=slateorange&show_icons=true&hide_border=false&count_private=true)
-![eugeniusms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eugeniusms&theme=slateorange&hide_border=false)
+![eugeniusms's Stats](https://github-readme-stats.vercel.app/api?username=eugeniusms&theme=slateorange&show_icons=true&hide_border=false&count_private=true) ![eugeniusms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eugeniusms&theme=slateorange&hide_border=false)
